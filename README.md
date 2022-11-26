@@ -2,7 +2,7 @@
 
 This repository is based on the latest container image from @DrPsychick: `drpsychick/airprint-bridge`.
 
-![Brother HL-L2312D Printer Image](https://www.brother.eu/-/media/product-images/devices/printers/hl/hll2312d/hll2312d_main.png | width=100)
+![Brother HL-L2312D Printer Image](https://www.brother.eu/-/media/product-images/devices/printers/hl/hll2312d/hll2312d_main.png)
 
 ## Official driver
 
