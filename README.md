@@ -12,3 +12,7 @@ The supplied driver in this repo has some modifications in order to be able to b
   * removed `lpinfo` and `lpadmin` references from the control scripts.
   * removed `selinux` configurations from the control scripts.
   * changed default architecture from `i386` to `amd64`.
+
+## Adding a printer in CUPS
+
+In order to add/configure a printer to use the official driver, please use `Brother HLL2310D for CUPS(en)` driver from the CUPS web UI.
