@@ -13,6 +13,8 @@ The supplied driver in this repo has some modifications in order to be able to b
   * removed `selinux` configurations from the control scripts.
   * changed default architecture from `i386` to `amd64`.
 
+The driver named `hll2310dpdrv-4.0.0-1.all.deb` is meant to be installed on armhf architectures.
+
 ## Adding a printer in CUPS
 
 In order to add/configure a printer to use the official driver, please use `Brother HLL2310D for CUPS(en)` driver from the CUPS web UI.
